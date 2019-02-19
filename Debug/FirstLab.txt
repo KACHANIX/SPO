@@ -1,0 +1,14 @@
+Kocharian 1 Discrete_Maths 4
+Kocharian 1 Informatics 4 
+Kocharian 1 History 4
+Kocharian 1 LAPP 4
+Kocharian 1 Maths 3
+Kocharian 2 Database 4
+Kocharian 2 Discrete_Maths 4
+Kocharian 2 Maths 4
+Kocharian 2 Programming 4
+Kocharian 2 Physics 3
+Kocharian 3 Maths 4
+Kocharian 3 IAD 2
+Kocharian 3 Physics 3
+Kocharian 3 Assembler language 4
